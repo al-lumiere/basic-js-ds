@@ -1,5 +1,5 @@
 const { NotImplementedError } = require("../lib");
-// const { Node } = require('../extensions/list-tree.js');
+const { Node } = require('../extensions/list-tree.js');
 
 /**
  * Implement simple binary search tree according to task description
